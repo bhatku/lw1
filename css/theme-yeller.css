@@ -91,7 +91,7 @@ h6,
 .h6 {
   font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
   color: #252525;
-  font-weight: 300;
+  font-weight: 500;
   font-variant-ligatures: common-ligatures;
   margin-top: 0;
   margin-bottom: 0;
@@ -105,6 +105,7 @@ h2,
 .h2 {
   font-size: 2.35714286em;
   line-height: 1.36363636em;
+  font-
 }
 h3,
 .h3 {
